@@ -1,9 +1,5 @@
-# Sample Module Repository
+# backbone-neck
 
-This simple project is an example repo for Python projects.
+Awesome backbone-neck builder, supporting pytorch and mxnet/gluon, based on [gluoncv](https://github.com/dmlc/gluon-cv) and [mmdetection](https://github.com/open-mmlab/mmdetection).
 
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
-
-✨🍰✨
+Much thanks to [mmdetection](https://github.com/open-mmlab/mmdetection).
